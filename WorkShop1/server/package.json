@@ -1,12 +1,12 @@
 {
-  "name": "week-2",
+  "name": "workshop1",
   "version": "1.0.0",
-  "description": "Semana 2 del curso de ISW-711",
-  "main": "index.js",
+  "description": "my first node workshop1",
+  "main": "workshop1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Erick Solis",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
