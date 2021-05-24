@@ -1,7 +1,7 @@
 {
   "name": "workshop1",
   "version": "1.0.0",
-  "description": "my first node workshop1",
+  "description": "my first node workshopUno",
   "main": "workshop1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
